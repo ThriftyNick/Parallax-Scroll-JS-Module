@@ -1,4 +1,4 @@
-#Parallax Scroll Module
+# Parallax Scroll Module
 
 This is an easy way to apply a parallax scrolling effect to any DOM element.  Use it on a background image to give your webpage an illusion of depth.
 
